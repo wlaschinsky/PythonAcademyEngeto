@@ -15,3 +15,12 @@ nove_slovo = slovo[:pozice-1] + novy_znak + slovo[pozice:]
 
 print(nove_slovo)
 
+
+#replace with funciton
+print("anakonda".replace("a", "A"))
+
+# slice
+print ("anakonda"[::2])
+# stride
+# index 
+print ("anakonda"[2])
